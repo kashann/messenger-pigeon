@@ -10,6 +10,9 @@ Prerequisites:
     - `twilio`
     - `dotenv`
     - `fs`
+
+## Running
+You need:
 - A phone number to send texts to [TO_PHONE_NUMBER](./.env)
 - A [CRON](./.env) expression to run the job.
 
